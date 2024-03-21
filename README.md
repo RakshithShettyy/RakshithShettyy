@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakshithShettyy
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning node.js ,express, ejs
+- 🌱 I’m currently learning React.js, node.js, express, ejs
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me through rakshithshetty227@gmail.com or https://www.linkedin.com/in/rakshith-shetty-pingme/
 - Personal website link: https://rakshithshettyweb.netlify.app/
